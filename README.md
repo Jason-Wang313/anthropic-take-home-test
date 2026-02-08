@@ -157,11 +157,3 @@ original_performance_takehome/
 <p align="center">
   <em>Built with systematic experimentation, mathematical rigor, and a healthy respect for dependency chains.</em>
 </p>
-```
-
-
-```
-cd C:\Users\wangz\OneDrive\Desktop\answer
-git add original_performance_takehome/SUBMISSION_README.md
-git commit -m "polished submission readme"
-git push
